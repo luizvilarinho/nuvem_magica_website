@@ -172,7 +172,7 @@ nav.navbar.bootsnav ul.nav > li.dropdown span {
 #navbar-menu div.logo{
     width: 200px;
     height: 200px;
-    background: url('/assets/images/nuvem-magica/Nuvem\ Mágica_colorido.png') no-repeat;
+    background: url('/assets/images/nuvem-magica/nuvem_magica_colorido.png') no-repeat;
     background-size: contain;
     display: inline-block;
     margin-top: 10px;
