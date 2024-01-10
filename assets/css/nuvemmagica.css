@@ -1,0 +1,110 @@
+body{
+    background-color: #F8F098;
+    max-width: 100vw;
+    box-sizing: border-box;
+}
+/* logo */
+.navbar-header a.navbar-brand, .navbar-header a.navbar-brand:hover, .navbar-header a.navbar-brand:focus{
+    padding-top: 15px;
+}
+.welcome-hero{
+    /* margin-top: 80px; */
+    background: unset;
+    height: 80vh;
+}
+.welcome-hero:before {
+    background-color: #74aad6;
+}
+.welcome-hero-txt {
+    text-align: center;
+    padding: 90px 0 372px;
+}
+/* titulo */
+.welcome-hero-txt h2{
+    padding-left: 450px;
+    font-size: 3rem;
+}
+.service {
+    padding: 100px 100px;
+}
+
+.welcome-hero:before{
+    /* background: unset; */
+}
+.container.box-visualizacao{
+    width: 90vw;
+    position: absolute;
+    left: 3.45vw;
+    top: 78vh;
+}
+.box-images{
+    border: 5px solid #8FD0F4;
+    background-color: #8FD0F4;
+}
+.model-search-content {
+   top: -280px;
+   background-color: #F8F098;
+   box-shadow: unset;
+   bottom: unset;
+}
+.navbar-brand{
+    color: #8FD0F4!important;
+}
+.wrap-sticky nav.navbar.bootsnav.sticked{
+    background-color: #f2e27c;
+    opacity: 1;
+}
+nav.navbar.bootsnav ul.nav > li > a{
+    color:#74aad6;
+    font-weight: 600;
+    font-size: 2rem;
+}
+nav.navbar.bootsnav ul.nav > li.active>a{
+    color:#8FD0F4;
+}
+nav.navbar.bootsnav ul.nav > li > a:hover{
+    color:#8FD0F4;
+}
+.contact {
+    background: #8FD0F4;
+}
+.footer-contact p, .single-footer-widget p,.footer-logo a, .footer-logo a:hover, .footer-logo a:focus{
+    color: #444a57;
+}
+.model-search-content.images-container{
+   display: flex;
+   justify-content: space-around;
+}
+.info-container{
+    display: flex;
+    gap: 45px;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.single-service-item:hover{
+    background: #74aad6;
+    border: 1px solid #74aad6;
+    
+}
+.item{
+    width: 30%;
+    opacity: 1;
+    border-color: #8FD0F4;
+}
+.single-service-item{
+    height: 150px;
+}
+.w5{
+    width: 50%;
+}
+.w4{
+    width: 40%;
+}
+div.contato h2{
+    text-align: center;
+    font-weight: 300;
+    margin:102px 0;
+    font-size: 3rem
+}
+
