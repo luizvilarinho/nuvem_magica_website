@@ -133,7 +133,7 @@ nav.navbar.bootsnav {
 }
 .wrap-sticky nav.navbar.bootsnav.sticked a.navbar-brand{
     margin-top:12px;
-    background: url('/assets/images/nuvem-magica/nuvem_magica_robo_colorido.png') no-repeat center;
+    background: url('../images/nuvem-magica/nuvem_magica_robo_colorido.png') no-repeat center;
     background-size: contain;
     width: 200px;
 }
@@ -172,7 +172,7 @@ nav.navbar.bootsnav ul.nav > li.dropdown span {
 #navbar-menu div.logo{
     width: 200px;
     height: 200px;
-    background: url('assets/images/nuvem-magica/nuvem_magica_colorido.png') no-repeat;
+    background: url('../images/nuvem-magica/nuvem_magica_colorido.png') no-repeat;
     background-size: contain;
     display: inline-block;
     margin-top: 10px;
