@@ -1018,7 +1018,7 @@ body.on-side .wrap-sticky nav.navbar.bootsnav.sticked{
     }
     
     nav.navbar.bootsnav.no-full .navbar-collapse{
-        max-height: 350px;
+        max-height: 450px;
         overflow-y: auto !important;
     }
     
@@ -1280,7 +1280,7 @@ body.on-side .wrap-sticky nav.navbar.bootsnav.sticked{
     /* Tabs
     =================================*/ 
     nav.navbar.bootsnav .megamenu-content.tabbed{
-        padding-left: 0 !mportant;
+        padding-left: 0!mportant;
     }
     
     nav.navbar.bootsnav .tabbed > li{
@@ -1374,7 +1374,7 @@ body.on-side .wrap-sticky nav.navbar.bootsnav.sticked{
 
 @media (max-width: 767px) {
     nav.navbar.bootsnav .navbar-header {
-        padding-left: 15px;
+        /* padding-left: 15px; */
         padding-right: 15px;
     }
     

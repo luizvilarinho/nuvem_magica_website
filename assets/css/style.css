@@ -167,7 +167,7 @@ nav.navbar.bootsnav ul.nav > li.dropdown span {
 
 /*.menu-ui-design*/
 .menu-ui-design{overflow-y:scroll;
-    height: 350px;
+    height: 450px;
 }
 #navbar-menu div.logo{
     width: 200px;
@@ -733,6 +733,36 @@ nav.navbar.bootsnav .navbar-toggle i{color: #8FD0F4;}
     gap: 45px;
     text-align: justify;
 }
+
+.logo-mobile{
+    display: none;
+}
+
+
+@media screen and (max-width:992px){
+    .logo-mobile{
+        display: block;
+        width: 200px;
+        margin:0 auto;
+        margin-bottom: 100px;
+        /* ;
+        margin-top: -150px; */
+    }
+    .service {
+        padding: 160px 0 87px;
+    }
+    #texto{
+        padding: 15px;
+    }
+    .texto-container{
+        flex-direction: column;
+        width: 100%;
+    }
+    .footer-contact a {
+      font-size: 16px;
+    }
+}
+
 /*========================Thank you=================
 
 
