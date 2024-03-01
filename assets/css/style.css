@@ -232,6 +232,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #8FD0F4;}
     font-weight: 700;
     text-transform: uppercase;
     margin-bottom: 45px;
+    padding-top: 20px;
 }
 .welcome-hero-txt p {
     font-size: 18px;
